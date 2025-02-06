@@ -6,7 +6,7 @@
   src:
 url(../fonts/ebgaramondmedium.woff2) format('woff2'),
 url(../fonts/ebgaramondmedium.woff) format('woff'),
-url(../fonts/ebgaramondmedium.ttf) format('otf');
+url(../fonts/ebgaramondmedium.ttf) format('ttf');
 }
 
 @font-face {
@@ -14,7 +14,7 @@ url(../fonts/ebgaramondmedium.ttf) format('otf');
   src:
 url(../fonts/ebgaramondregular.woff2) format('woff2'),
 url(../fonts/ebgaramondregular.woff) format('woff'),
-url(../fonts/ebgaramondregular.ttf) format('otf');
+url(../fonts/ebgaramondregular.ttf) format('ttf');
 }
 
 @font-face {
@@ -22,7 +22,7 @@ url(../fonts/ebgaramondregular.ttf) format('otf');
   src:
 url(../fonts/interregular.woff2) format('woff2'),
 url(../fonts/interregular.woff) format('woff'),
-url(../fonts/interregular.ttf) format('otf');
+url(../fonts/interregular.ttf) format('ttf');
 }
 
 @font-face {
@@ -30,5 +30,5 @@ url(../fonts/interregular.ttf) format('otf');
   src:
 url(../fonts/interbold.woff2) format('woff2'),
 url(../fonts/interbold.woff) format('woff'),
-url(../fonts/interbold.ttf) format('otf');
+url(../fonts/interbold.ttf) format('ttf');
 }
