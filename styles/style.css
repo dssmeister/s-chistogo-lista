@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-@import url(./styles/fonts.css); 
+@import url(./fonts/fonts.css); 
 
 * {
   box-sizing: border-box;
